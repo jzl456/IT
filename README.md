@@ -13,4 +13,4 @@ touch
 /.autorelabel
 exit
 reboot
-##2、cut命令
+## 2、cut命令
