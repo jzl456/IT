@@ -1,5 +1,5 @@
 # linux学习
-## root密码重置
+## 1、root密码重置
 ### 
 1、重启按e进入内核编辑模式
 2、在linux16参数后追加‘rd.break’，Ctrl+X运行
@@ -13,3 +13,4 @@ touch
 /.autorelabel
 exit
 reboot
+##2、cut命令
